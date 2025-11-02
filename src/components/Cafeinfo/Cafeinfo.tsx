@@ -1,6 +1,6 @@
-import css from "./Cafeinfo.module.css";
+import css from "./CafeInfo.module.css";
 
-function Cafeinfo() {
+function CafeInfo() {
   return (
     <div className={css.container}>
       <h1 className={css.title}>Sip Happens Café</h1>
@@ -11,4 +11,4 @@ function Cafeinfo() {
   );
 }
 
-export default Cafeinfo;
+export default CafeInfo;
