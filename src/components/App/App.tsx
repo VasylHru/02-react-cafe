@@ -1,5 +1,5 @@
 import { useState } from "react";
-import CafeInfo from "../CafeInfo/Cafeinfo.tsx";
+import CafeInfo from "../CafeInfo/CafeInfo"
 import VoteOptions from "../VoteOptions/VoteOptions";
 import VoteStats from "../VoteStats/VoteStats";
 import Notification from "../Notification/Notification";
